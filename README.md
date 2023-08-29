@@ -29,7 +29,7 @@ npm run start
 ```
 
 5. Open the url to your browser {port: 8000}
-   https://localhost:8000
+   http://localhost:8000
 
 6. Please use this type of format for storing movie data to database.
 
